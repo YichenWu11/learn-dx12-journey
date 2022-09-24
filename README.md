@@ -3,4 +3,21 @@
 
 <br/>
 
+### 深度复杂性
+
+---
+
+<br/>
+
 <img src="./images/dc.png" width="60%" height="40%">
+
+
+<br/>
+
+### 三次贝塞尔曲面
+
+---
+
+<br/>
+
+<img src="./images/bez.png" width="60%" height="40%">
