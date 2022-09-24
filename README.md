@@ -22,11 +22,13 @@
 
 <img src="./images/bez.png" width="60%" height="40%">
 
----
-
 <br/>
 
 ### 曲面细分 (dodecagon to sphere)
+
+---
+
+<br/>
 
 <img src="./images/sq.png" width="60%" height="40%">
 
